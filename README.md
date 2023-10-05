@@ -6,6 +6,7 @@
     <img src="./.github/assets/amplication-logo-dark-mode.svg">
     </a>
 </h1>
+Mul
 
 <p align="center">
   <i align="center">Instantly generate production-ready Node.js backend apps 🚀</i>
